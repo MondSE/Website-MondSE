@@ -20,12 +20,11 @@
 
 .skills{
     position: relative;
-    background: url(../../assets/background_3.jpg);
-    background-repeat: space;
-    height: 100%;
-    width: 100%;
+    background: url(../../assets/background_5.jpg);
+    background-repeat: no-repeat;
     background-size: contain;
     mix-blend-mode: multiply;
+    background-position: center;
 }
 
 .skills__box {
