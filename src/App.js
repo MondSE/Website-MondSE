@@ -19,7 +19,7 @@ const App = () => {
     setloading(true)
     setTimeout(() => {
       setloading(false)
-    }, 5000)
+    }, 6000)
   },[]);
 
   return (
