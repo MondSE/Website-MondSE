@@ -122,6 +122,27 @@ img {
   height: auto;
 }
 
+.loading-screen {
+  display: block;
+  margin: 40% auto 0 auto;
+}
+
+.loading-screen-text {
+  display: block;
+  margin-top: 5%;
+  text-align: center;
+  font-size: var(--h1-font-size);
+  font-weight: var(--font-normal);
+}
+
+.loading-screen-text2 {
+  display: block;
+  margin-top: 5%;
+  text-align: center;
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-normal);
+}
+
 /*=============== REUSABLE CSS CLASSES ===============*/
 .section {
   padding: 6rem 0 2rem;
