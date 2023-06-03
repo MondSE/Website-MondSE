@@ -19,14 +19,14 @@ const App = () => {
     setloading(true)
     setTimeout(() => {
       setloading(false)
-    }, 6000)
+    }, 4000)
   },[]);
 
   return (
     <>
     {
       loading ? (
-      <><PacmanLoader loading={loading} color={'#ffa500'} size={'40'} className='loading-screen' /><p className='loading-screen-text'>Welcome Visitor</p><p className='loading-screen-text2'>loading please wait a moment website</p></>
+      <><PacmanLoader loading={loading} color={'#ffa500'} size={'40'} className='loading-screen' /><p className='loading-screen-text'>Welcome Visitor</p><p className='loading-screen-text2'>please wait a moment my website is loading</p></>
       ): (     
       <><Header /><main className='name'>
             <Home />

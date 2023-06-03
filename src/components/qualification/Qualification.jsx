@@ -234,53 +234,58 @@ const Qualification = () => {
 
                 <div className={toggleState === 3 ? "qulification__content qualification__content-active" : "qualification__content"}>
                     <div className="qualification__data3">
-                        <div className='qualification__info'>
+                        <div className='qualification__info reveal3'>
                                 <h3 className="qualification__title">Introduction to Packet Tracer</h3>
-                                <span className="qualification__subtitle3">Cisco Networking Academy</span>
+                                <span className="qualification__subtitle3">Cisco Networking Academy</span><br />
                                 <span className="qualification__button2" onClick={()=> window.open("https://drive.google.com/file/d/1L5WgsFQL2Nq4XPiS80dIWmmrv0vR98eu/view?usp=sharing", "_blank")}>View More <i className="ri-arrow-right-line qualification__button2-icon"></i></span>
                         </div>
 
-                        <div className='qualification__info'>
+                        <div className='qualification__info reveal3'>
                             <h3 className="qualification__title">Partner: CPA - Programming Essentials in C++</h3>
-                            <span className="qualification__subtitle3">Cisco Networking Academy</span>
+                            <span className="qualification__subtitle3">Cisco Networking Academy</span><br />
                             <span className="qualification__button2" onClick={()=> window.open("https://drive.google.com/file/d/1XSn9dRIXEwDGKGT5olTQbgoyJW6EoYpP/view?usp=sharing", "_blank")}>View More <i className="ri-arrow-right-line qualification__button2-icon"></i></span>
                         </div>
                     </div>
 
                     <div className="qualification__data3">
-                        <div className='qualification__info'>
+                        <div className='qualification__info reveal3'>
                                 <h3 className="qualification__title">Partner: CPP - Advanced Programming in C++</h3>
-                                <span className="qualification__subtitle3">Cisco Networking Academy</span>
+                                <span className="qualification__subtitle3">Cisco Networking Academy</span><br />
                                 <span className="qualification__button2" onClick={()=> window.open("https://drive.google.com/file/d/13V3B1Nxx6qgSUrWfbCjJka8MCuKbgxQG/view?usp=sharing", "_blank")}>View More <i className="ri-arrow-right-line qualification__button2-icon"></i></span>
                         </div>
 
-                        <div className='qualification__info'>
+                        <div className='qualification__info reveal3'>
                             <h3 className="qualification__title">CCNAv7: Introduction to Networks</h3>
-                            <span className="qualification__subtitle3">Cisco Networking Academy</span>
+                            <span className="qualification__subtitle3">Cisco Networking Academy</span><br />
                             <span className="qualification__button2" onClick={()=> window.open("https://drive.google.com/file/d/1khmLffH34hff2QbrIPdy_EORHG-pIEMy/view?usp=sharing", "_blank")}>View More <i className="ri-arrow-right-line qualification__button2-icon"></i></span>
                         </div>
                     </div>
 
                     <div className="qualification__data3">
-                        <div className='qualification__info'>
+                        <div className='qualification__info reveal3'>
                                 <h3 className="qualification__title">Introduction to Cybersecurity</h3>
-                                <span className="qualification__subtitle3">Cisco Networking Academy</span>
+                                <span className="qualification__subtitle3">Cisco Networking Academy</span><br />
                                 <span className="qualification__button2" onClick={()=> window.open("https://drive.google.com/file/d/1cbM_gJnJdK-Wx-7BeQKONOiA5bULjCYw/view?usp=sharing", "_blank")}>View More <i className="ri-arrow-right-line qualification__button2-icon"></i></span>
                         </div>
 
-                        <div className='qualification__info'>
+                        <div className='qualification__info reveal3'>
                             <h3 className="qualification__title">SQL</h3>
-                            <span className="qualification__subtitle3">TestDome</span>
-                            <span className="qualification__button2" onClick={()=> window.open("https://www.testdome.com/certificates/10d63437a0134c8bb576ac47bde04f96", "_blank")}>View More <i className="ri-arrow-right-line qualification__button2-icon"></i></span>
+                            <span className="qualification__subtitle3">TestDome</span><br />
+                            <span className="qualification__button2" onClick={()=> window.open("https://www.testdome.com/certificates/4ab31b60d2d142f29168cb1ab3061a86", "_blank")}>View More <i className="ri-arrow-right-line qualification__button2-icon"></i></span>
                         </div>
                     </div>
 
-                    <div className="qualification__data4">
-                        <div className='qualification__info'>
+                    <div className="qualification__data3">
+                        <div className='qualification__info reveal3'>
                                 <h3 className="qualification__title">PHP</h3>
-                                <span className="qualification__subtitle3">TestDome</span>
-                                <br />
+                                <span className="qualification__subtitle3">TestDome</span><br />
                                 <span className="qualification__button2" onClick={()=> window.open("https://www.testdome.com/certificates/10d63437a0134c8bb576ac47bde04f96", "_blank")}>View More <i className="ri-arrow-right-line qualification__button2-icon"></i></span>
+                        </div>
+
+                        <div className='qualification__info reveal3'>
+                            <h3 className="qualification__title">JavaScript</h3>
+                            <span className="qualification__subtitle3">TestDome</span><br />
+                            <span className="qualification__button2" onClick={()=> window.open("https://www.testdome.com/certificates/1c8499ef94e040b98e6761b0dfdc3fe9", "_blank")}>View More <i className="ri-arrow-right-line qualification__button2-icon"></i></span>
                         </div>
                     </div>
                     
