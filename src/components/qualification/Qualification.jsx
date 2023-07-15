@@ -218,8 +218,8 @@ const Qualification = () => {
 
                     <div className="qualification__data">
                         <div className='qualification__info reveal3'>
-                            <h3 className="qualification__title">Social Media Editor</h3>
-                            <span className="qualification__subtitle">ARVATO - Philippines</span>
+                            <h3 className="qualification__title">Computer System Servicing</h3>
+                            <span className="qualification__subtitle">GKA - Philippines</span>
                             <div className="qualification__calender">
                                 <i className="ri-calendar-line"></i> 2017
                             </div>
