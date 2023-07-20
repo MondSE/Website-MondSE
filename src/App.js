@@ -9,7 +9,7 @@ import Qualification from './components/qualification/Qualification';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import Scrollup from './components/scrollup/Scrollup';
-import Project from './components/project/Project';
+// import Project from './components/project/Project';
 import PacmanLoader from "react-spinners/PacmanLoader";
 
 const App = () => {
@@ -34,7 +34,7 @@ const App = () => {
             <Skills />
             <Services />
             <Qualification />
-            <Project />
+            {/* <Project /> */}
             <Contact />
           </main><Footer /><Scrollup /></>)
     }
