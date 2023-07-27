@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Website-MondSE/static/css/main.c8130490.css",
-    "main.js": "/Website-MondSE/static/js/main.0aaf1516.js",
+    "main.js": "/Website-MondSE/static/js/main.8f73850b.js",
     "static/media/almond.png": "/Website-MondSE/static/media/almond.5c57c324e150e89e2eee.png",
     "static/media/background_5.jpg": "/Website-MondSE/static/media/background_5.6ade2470f76bda8d6098.jpg",
     "static/media/background_4.jpg": "/Website-MondSE/static/media/background_4.8f27054c8a582b490da3.jpg",
     "static/media/almond3.jpg": "/Website-MondSE/static/media/almond3.3ee99fb072669c76f6aa.jpg",
     "static/media/background_1.jpg": "/Website-MondSE/static/media/background_1.fd3ff0f73f47bc7c3399.jpg",
-    "static/media/Almond-CV.pdf": "/Website-MondSE/static/media/Almond-CV.2def918409eb7773a526.pdf",
+    "static/media/Almond-CV.pdf": "/Website-MondSE/static/media/Almond-CV.0fbe4ab8dfc6e423fb14.pdf",
     "static/media/background_3.jpg": "/Website-MondSE/static/media/background_3.296dd98223de43858c41.jpg",
     "index.html": "/Website-MondSE/index.html",
     "main.c8130490.css.map": "/Website-MondSE/static/css/main.c8130490.css.map",
-    "main.0aaf1516.js.map": "/Website-MondSE/static/js/main.0aaf1516.js.map"
+    "main.8f73850b.js.map": "/Website-MondSE/static/js/main.8f73850b.js.map"
   },
   "entrypoints": [
     "static/css/main.c8130490.css",
-    "static/js/main.0aaf1516.js"
+    "static/js/main.8f73850b.js"
   ]
 }
