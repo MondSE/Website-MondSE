@@ -189,7 +189,7 @@ const Qualification = () => {
                             <h3 className="qualification__title">Software Developer</h3>
                             <span className="qualification__subtitle">LGU - Philippines</span>
                             <div className="qualification__calender">
-                                <i className="ri-calendar-line"></i> 2021 - 2022
+                                <i className="ri-calendar-line"></i> 2020 - 2022
                             </div>
                         </div>
 
