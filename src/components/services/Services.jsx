@@ -111,7 +111,7 @@ const Services = () => {
                     <div className="services__modal-content">
                         <i onClick={() => toggleTab(0)} className="ri-close-line services__modal-close"></i>
 
-                        <h3 className="services__modal-title">Mutlimedia Editing</h3>
+                        <h3 className="services__modal-title">Multimedia Editing</h3>
                         <p className="services__modal-description">Providing Graphical quality work to clients and companies.</p>
 
                         <ul className="services__modal-services grid">
