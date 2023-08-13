@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/Website-MondSE/static/css/main.730f40d9.css",
-    "main.js": "/Website-MondSE/static/js/main.463b5799.js",
+    "main.css": "/Website-MondSE/static/css/main.8a50a018.css",
+    "main.js": "/Website-MondSE/static/js/main.b89721de.js",
     "static/media/almond.png": "/Website-MondSE/static/media/almond.5c57c324e150e89e2eee.png",
     "static/media/1.png": "/Website-MondSE/static/media/1.483bd4744f56d62bd0f0.png",
     "static/media/background_5.jpg": "/Website-MondSE/static/media/background_5.6ade2470f76bda8d6098.jpg",
-    "static/media/background_4.jpg": "/Website-MondSE/static/media/background_4.8f27054c8a582b490da3.jpg",
     "static/media/almond3.jpg": "/Website-MondSE/static/media/almond3.3ee99fb072669c76f6aa.jpg",
     "static/media/background_1.jpg": "/Website-MondSE/static/media/background_1.fd3ff0f73f47bc7c3399.jpg",
     "static/media/4.png": "/Website-MondSE/static/media/4.878444ca37f363d50452.png",
@@ -18,11 +17,11 @@
     "static/media/8.png": "/Website-MondSE/static/media/8.4cfecc045217886e046e.png",
     "static/media/background_3.jpg": "/Website-MondSE/static/media/background_3.296dd98223de43858c41.jpg",
     "index.html": "/Website-MondSE/index.html",
-    "main.730f40d9.css.map": "/Website-MondSE/static/css/main.730f40d9.css.map",
-    "main.463b5799.js.map": "/Website-MondSE/static/js/main.463b5799.js.map"
+    "main.8a50a018.css.map": "/Website-MondSE/static/css/main.8a50a018.css.map",
+    "main.b89721de.js.map": "/Website-MondSE/static/js/main.b89721de.js.map"
   },
   "entrypoints": [
-    "static/css/main.730f40d9.css",
-    "static/js/main.463b5799.js"
+    "static/css/main.8a50a018.css",
+    "static/js/main.b89721de.js"
   ]
 }
