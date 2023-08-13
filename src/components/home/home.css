@@ -17,11 +17,11 @@
 
 .home__social-icon {
     font-size: 1.25rem;
-    color: var(--title-color);
+    color: var(--title-color-dark);
 }
 
 .home__social-icon:hover {
-    color: var(--title-color-dark);
+    color: var(--title-color);
 }
 
 .code__img {
@@ -45,7 +45,7 @@
     position: absolute;
     width: 70px;
     height: 1px;
-    background-color: var(--text-color);
+    background-color: var(--title-color-dark);
     left: 0;
     top: 0.7rem;
 }
@@ -53,6 +53,7 @@
 .home__description {
     max-width: 400px;
     margin-bottom: var(--mb-3);
+    color: var(--title-color-dark);
 }
 
 .home__title {
@@ -65,7 +66,6 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-
     order: 1;
     justify-self: center;
     width: 300px;
@@ -114,7 +114,7 @@
 }
 
 .home__scroll-name {
-    color: var(--title-color);
+    color: var(--title-color-dark);
     font-weight: var(--font-medium);
     margin-right: var(--mb-0-25);
     margin-left: 2px;
@@ -124,7 +124,7 @@
 }
 
 .home__scroll-arrow-icon {
-    color: var(--title-color);
+    color: var(--title-color-dark);
     font-size: 1.55rem;
     transition: 0.3s;
 }

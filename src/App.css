@@ -34,7 +34,7 @@
   --font-medium: 500;
   --font-semi-bold: 600;
 
-  /*========== Margenes Bottom ==========*/
+  /*========== Margined Bottom ==========*/
   /*.5rem = 8px | 1rem = 16px ...*/
   --mb-0-25: 0.25rem;
   --mb-0-5: 0.5rem;
@@ -92,7 +92,7 @@ textarea {
 }
 
 body {
-  background-color: var(--body-color);
+  background-color: var(--container-color);
   color: var(--text-color);
 }
 

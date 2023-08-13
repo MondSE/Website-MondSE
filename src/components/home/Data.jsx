@@ -14,12 +14,12 @@ const Data = () => {
         <h3 className="home__subtitle">
         <TypeWriterEffect
         textStyle={{
-          color: '#7a7a7a',
+          color: '#000000',
           fontWeight: 400,
           fontSize: '1.05rem',
         }}
         startDelay={2000}
-        cursorColor="#7a7a7a"
+        cursorColor="#000000"
         multiText={[
           "Software Engineer", "Web Developer", "Data Analysis"
         ]}

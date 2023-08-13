@@ -32,7 +32,7 @@ const Qualification = () => {
   return (
     <section className="qualification section" id="qualification">
          <h2 className="section__title">Qualification</h2>
-        <span className="section__subtitle">My personel journey</span>
+        <span className="section__subtitle">My personal journey</span>
 
         <div className="qualification__container container">
             <div className="qualification__tabs">
@@ -183,7 +183,7 @@ const Qualification = () => {
                     </div>
                 </div>
 
-                <div className={toggleState === 2 ? "qulification__content qualification__content-active" : "qualification__content"}>
+                <div className={toggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content"}>
                     <div className="qualification__data">
                         <div className='qualification__info reveal3'>
                             <h3 className="qualification__title">Software Developer</h3>
@@ -232,7 +232,7 @@ const Qualification = () => {
                     </div>
                 </div>
 
-                <div className={toggleState === 3 ? "qulification__content qualification__content-active" : "qualification__content"}>
+                <div className={toggleState === 3 ? "qualification__content qualification__content-active" : "qualification__content"}>
                     <div className="qualification__data3">
                         <div className='qualification__info reveal3'>
                                 <h3 className="qualification__title">Introduction to Packet Tracer</h3>
