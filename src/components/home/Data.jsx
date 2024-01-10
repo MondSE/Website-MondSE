@@ -28,7 +28,7 @@ const Data = () => {
         multiTextLoop
       />
         </h3>
-        <p className="home__description">I'm 25-year-old programmer based in Angeles, Philippines.</p>
+        <p className="home__description">I'm a programmer based in Angeles, Philippines.</p>
 
         <a href="#contact" className="button button--flex">
           Please feel free to contact me.
