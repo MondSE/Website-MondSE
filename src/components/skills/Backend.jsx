@@ -26,18 +26,26 @@ const Backend = () => {
                 </div>
 
                 <div className="skills__data">
-                  <i class='bx bxl-python'></i>
+                  <i class='bx bxl-c-plus-plus'></i>
 
                  <div>
-                    <h3 className="skills__name">Python</h3>
-                    <span className="skills__level">Basic</span>
+                    <h3 className="skills__name">C++</h3>
+                    <span className="skills__level">Intermediate</span>
                  </div>
                 </div>
             </div>
             
             <div className="skills__group">
                 <div className="skills__data">
-                  <i class='bx bx-badge-check'></i>
+                  <i class='bx bxl-java'></i>
+                 <div>
+                    <h3 className="skills__name">JAVA</h3>
+                    <span className="skills__level">Basic</span>
+                 </div>
+                </div>
+
+                <div className="skills__data">
+                  <i class='bx bxs-data'></i>
                  <div>
                     <h3 className="skills__name">MySQL</h3>
                     <span className="skills__level">Intermediate</span>
@@ -45,11 +53,11 @@ const Backend = () => {
                 </div>
 
                 <div className="skills__data">
-                  <i class='bx bxs-data'></i>
+                  <i class='bx bxl-mongodb'></i>
                  <div>
 
-                    <h3 className="skills__name">SQL</h3>
-                    <span className="skills__level">Intermediate</span>
+                    <h3 className="skills__name">MongoDB</h3>
+                    <span className="skills__level">Basic</span>
                  </div>
                 </div>
 

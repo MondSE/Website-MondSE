@@ -1,13 +1,13 @@
 import React, { useState } from 'react';
 import "./project.css";
-import ProjectImg from '../../assets/project/1.png';
-import ProjectImg2 from '../../assets/project/2.png';
-import ProjectImg3 from '../../assets/project/3.png';
-import ProjectImg4 from '../../assets/project/4.png';
-import ProjectImg5 from '../../assets/project/5.png';
-import ProjectImg6 from '../../assets/project/6.png';
-import ProjectImg7 from '../../assets/project/7.png';
-import ProjectImg8 from '../../assets/project/8.png';
+import ProjectImg from '../../assets/project/ACTDO_MIS_IMG/1.png';
+import ProjectImg2 from '../../assets/project/ACTDO_MIS_IMG/2.png';
+import ProjectImg3 from '../../assets/project/ACTDO_MIS_IMG/3.png';
+import ProjectImg4 from '../../assets/project/ACTDO_MIS_IMG/4.png';
+import ProjectImg5 from '../../assets/project/ACTDO_MIS_IMG/5.png';
+import ProjectImg6 from '../../assets/project/ACTDO_MIS_IMG/6.png';
+import ProjectImg7 from '../../assets/project/ACTDO_MIS_IMG/7.png';
+import ProjectImg8 from '../../assets/project/ACTDO_MIS_IMG/8.png';
 
 
 const Project = () => {
