@@ -31,10 +31,10 @@ const App = () => {
       <><Header /><main className='name'>
             <Home />
             <About />
-            <Skills />
+            <Project />
             <Services />
+            <Skills />
             <Qualification />
-            {/* <Project /> */}
             <Contact />
           </main><Footer /><Scrollup /></>)
     }
