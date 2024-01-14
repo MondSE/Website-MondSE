@@ -7,6 +7,7 @@ import ProjectImg2_RLMMC from '../../assets/project/RLMMC_IMS_IMG/2.png';
 import ProjectImg3_RLMMC from '../../assets/project/RLMMC_IMS_IMG/3.png';
 import ProjectImg_LIBRARY from '../../assets/project/LIBRARY_FMP_IMG/1.png';
 import ProjectImg2_LIBRARY from '../../assets/project/LIBRARY_FMP_IMG/2.png';
+import ProjectImg3_LIBRARY from '../../assets/project/LIBRARY_FMP_IMG/3.png';
 import ProjectImg_ACTDO from '../../assets/project/ACTDO_IMS_IMG/1.png';
 import ProjectImg2_ACTDO from '../../assets/project/ACTDO_IMS_IMG/2.png';
 import ProjectImg3_ACTDO from '../../assets/project/ACTDO_IMS_IMG/3.png';
@@ -36,7 +37,7 @@ const Project = () => {
                 <div className='project__data'>
                     <img src={ProjectImg_PIS} alt="" className="project__image"/> 
                     <h3 className="project__title">PRODUCT INVENTORY SYSTEM</h3>
-                    <p className='project__details'>this project is used as a template for the demonstration of the product inventory system of local store as we use the C++ and MySql database for this simple project.</p>
+                    <p className='project__details'>This project is used as a template for the demonstration of the product inventory system of local store as we use the C++ and MySql database for this simple project.</p>
                 </div>
                 <a className="project__button" href="https://github.com/MondSE/ACTDO-IMS-DEMO" target="_blank" rel="noopener noreferrer">View DEMO code <i className="ri-arrow-right-line project__button-icon"></i></a>
                 <span className="project__button" onClick={() => toggleTab(1)}>View Image <i className="ri-arrow-right-line project__button-icon"></i></span>
@@ -65,7 +66,7 @@ const Project = () => {
                 <div className='project__data'>
                     <img src={ProjectImg_RLMMC} alt="" className="project__image"/> 
                     <h3 className="project__title">RLMMC-IMS</h3>
-                    <p className='project__details'>this project is used as a template for the demonstration of the information management system of RLMMC as a Capstone Redesign Project/Thesis using GunaUI and C# to be clear there are no RLMMC valuable data exposed to upload this template.</p>
+                    <p className='project__details'>This project is used as a template for the demonstration of the information management system of RLMMC as a Capstone Redesign Project/Thesis using GunaUI and C# to be clear there are no RLMMC valuable data exposed to upload this template.</p>
                 </div>
                 <a className="project__button" href="https://github.com/MondSE/ACTDO-IMS-DEMO" target="_blank" rel="noopener noreferrer">View DEMO code <i className="ri-arrow-right-line project__button-icon"></i></a>
                 <span className="project__button" onClick={() => toggleTab(2)}>View Image <i className="ri-arrow-right-line project__button-icon"></i></span>
@@ -98,7 +99,7 @@ const Project = () => {
                 <div className='project__data'>
                     <img src={ProjectImg_LIBRARY} alt="" className="project__image"/> 
                     <h3 className="project__title">LIBRARY RECORDS</h3>
-                    <p className='project__details'>this project is used as a template for the demonstration of the information management system of ACTDO as a Capstone Project/Thesis to be clear there are no ACTDO valuable data exposed to upload this template.</p>
+                    <p className='project__details'>This project is used as a template for the demonstration of the librarian record as comparison whether the FileMaker Pro 17 is good than VB6 both are using C#.</p>
                 </div>
                 <a className="project__button" href="https://github.com/MondSE/ACTDO-IMS-DEMO" target="_blank" rel="noopener noreferrer">View DEMO code <i className="ri-arrow-right-line project__button-icon"></i></a>
                 <span className="project__button" onClick={() => toggleTab(3)}>View Image <i className="ri-arrow-right-line project__button-icon"></i></span>
@@ -111,16 +112,16 @@ const Project = () => {
                         <i onClick={() => toggleTab(0)}className="ri-close-line project__modal-close"></i>
                             {/* <!-- Full-width images with number and caption text --> */}
                             <div class="mySlides fade">
-                              <div class="slide_details">1 / 8 LOG IN</div>
+                              <div class="slide_details">1 / 8 ACCOUNT REGISTRATION</div>
                               <img src={ProjectImg_LIBRARY} alt=""/>
                             </div>
                             <div class="mySlides fade">
-                              <div class="slide_details">2 / 8 DASHBOARD</div>
-                              <img src={ProjectImg_LIBRARY} alt=""/>
+                              <div class="slide_details">2 / 8 BOOK REGISTRATION</div>
+                              <img src={ProjectImg2_LIBRARY} alt=""/>
                             </div>
                             <div class="mySlides fade">
-                              <div class="slide_details">3 / 8 SEARCH CLIENT</div>
-                              <img src={ProjectImg_LIBRARY} alt=""/>
+                              <div class="slide_details">3 / 8 BORROWING BOOK</div>
+                              <img src={ProjectImg3_LIBRARY} alt=""/>
                             </div>
                     </div>
                 </div>
@@ -131,7 +132,7 @@ const Project = () => {
                 <div className='project__data'>
                     <img src={ProjectImg_ACTDO} alt="" className="project__image"/> 
                     <h3 className="project__title">ACTDO-IMS</h3>
-                    <p className='project__details'>this project is used as a template for the demonstration of the information management system of ACTDO as a Capstone Project/Thesis to be clear there are no ACTDO valuable data exposed to upload this template.</p>
+                    <p className='project__details'>This project is used as a template for the demonstration of the information management system of ACTDO as a Capstone Project/Thesis using the PHP native and Sql on Xampp to be clear there are no ACTDO valuable data exposed to upload this template.</p>
                 </div>
                 <a className="project__button" href="https://github.com/MondSE/ACTDO-IMS-DEMO" target="_blank" rel="noopener noreferrer">View DEMO code <i className="ri-arrow-right-line project__button-icon"></i></a>
                 <span className="project__button" onClick={() => toggleTab(4)}>View Image <i className="ri-arrow-right-line project__button-icon"></i></span>
