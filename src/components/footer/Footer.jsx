@@ -27,7 +27,7 @@ const footer = () => {
                 </li>
 
                 <li>
-                    <a href="#skills" className="footer__link">Skills</a>
+                    <a href="#skills" className="footer__link">Tech Stack</a>
                 </li>
 
                 <li>

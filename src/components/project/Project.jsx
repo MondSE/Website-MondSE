@@ -31,7 +31,6 @@ const Project = () => {
         <span className="section__subtitle">My Sample Project</span>
 
         <div className="project__container container">
-            <br />
             {/* PIS */}
             <div className="project__content box">
                 <div className='project__data'>
