@@ -186,7 +186,7 @@ const Qualification = () => {
                 <div className={toggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content"}>
                     <div className="qualification__data">
                         <div className='qualification__info reveal3'>
-                            <h3 className="qualification__title">Software Developer</h3>
+                            <h3 className="qualification__title">System Developer</h3>
                             <span className="qualification__subtitle">LGU - Philippines</span>
                             <div className="qualification__calender">
                                 <i className="ri-calendar-line"></i> 2020 - 2022
