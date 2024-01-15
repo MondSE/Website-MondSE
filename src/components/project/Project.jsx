@@ -39,7 +39,7 @@ const Project = () => {
                     <h3 className="project__title">PRODUCT INVENTORY SYSTEM</h3>
                     <p className='project__details'>This project is used as a template for the demonstration of the product inventory system of local store as we use the C++ and MySql database for this simple project.</p>
                 </div>
-                <a className="project__button" href="https://github.com/MondSE/ACTDO-IMS-DEMO" target="_blank" rel="noopener noreferrer">View DEMO code <i className="ri-arrow-right-line project__button-icon"></i></a>
+                <a className="project__button" href="https://github.com/MondSE/Product_Inventory_System" target="_blank" rel="noopener noreferrer">View DEMO code <i className="ri-arrow-right-line project__button-icon"></i></a>
                 <span className="project__button" onClick={() => toggleTab(1)}>View Image <i className="ri-arrow-right-line project__button-icon"></i></span>
                 <div 
                   className={toggleState === 1 
@@ -68,7 +68,7 @@ const Project = () => {
                     <h3 className="project__title">RLMMC-IMS</h3>
                     <p className='project__details'>This project is used as a template for the demonstration of the information management system of RLMMC as a Capstone Redesign Project/Thesis using GunaUI and C# to be clear there are no RLMMC valuable data exposed to upload this template.</p>
                 </div>
-                <a className="project__button" href="https://github.com/MondSE/ACTDO-IMS-DEMO" target="_blank" rel="noopener noreferrer">View DEMO code <i className="ri-arrow-right-line project__button-icon"></i></a>
+                <a className="project__button" href="https://github.com/MondSE/RLMMC-MIS" target="_blank" rel="noopener noreferrer">View DEMO code <i className="ri-arrow-right-line project__button-icon"></i></a>
                 <span className="project__button" onClick={() => toggleTab(2)}>View Image <i className="ri-arrow-right-line project__button-icon"></i></span>
                 <div 
                   className={toggleState === 2 
@@ -101,7 +101,7 @@ const Project = () => {
                     <h3 className="project__title">LIBRARY RECORDS</h3>
                     <p className='project__details'>This project is used as a template for the demonstration of the librarian record as comparison whether the FileMaker Pro 17 is good than VB6 both are using C#.</p>
                 </div>
-                <a className="project__button" href="https://github.com/MondSE/ACTDO-IMS-DEMO" target="_blank" rel="noopener noreferrer">View DEMO code <i className="ri-arrow-right-line project__button-icon"></i></a>
+                <a className="project__button" href="https://github.com/MondSE/Library-Management-Record" target="_blank" rel="noopener noreferrer">View DEMO code <i className="ri-arrow-right-line project__button-icon"></i></a>
                 <span className="project__button" onClick={() => toggleTab(3)}>View Image <i className="ri-arrow-right-line project__button-icon"></i></span>
                 <div 
                   className={toggleState === 3 
