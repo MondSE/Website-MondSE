@@ -12,7 +12,7 @@
 }
 
 .project__details {
-    font-size: var( --normal-font-size);
+    font-size: var(--normal-font-size);
     margin-bottom: var(--mb-3);
     font-weight: var(--font-normal);
     text-align: left;
@@ -33,63 +33,67 @@
     background-color: var(--container-color);
     padding: 3rem 0 2rem 2.5rem;
     overflow: hidden;
-} 
+}
 
 .project__content {
-	border-image: conic-gradient(from var(--angle), var(--c2), var(--c1) 0.1turn, var(--c1) 0.15turn, var(--c2) 0.25turn) 30;
-	animation: borderRotate var(--d) linear infinite forwards;
+    border-image: conic-gradient(from var(--angle), var(--c2), var(--c1) 0.1turn, var(--c1) 0.15turn, var(--c2) 0.25turn) 30;
+    animation: borderRotate var(--d) linear infinite forwards;
 }
 
 .project__content:nth-child(2) {
-	border-image: radial-gradient(ellipse at var(--gradX) var(--gradY), var(--c1), var(--c1) 10%, var(--c2) 40%) 30;
-	animation: borderRadial var(--d) linear infinite forwards;
+    border-image: radial-gradient(ellipse at var(--gradX) var(--gradY), var(--c1), var(--c1) 10%, var(--c2) 40%) 30;
+    animation: borderRadial var(--d) linear infinite forwards;
 }
 
 @property --angle {
     syntax: '<angle>';
     initial-value: 90deg;
     inherits: true;
-  }
-  
-  @property --gradX {
+}
+
+@property --gradX {
     syntax: '<percentage>';
     initial-value: 50%;
     inherits: true;
-  }
-  
-  @property --gradY {
+}
+
+@property --gradY {
     syntax: '<percentage>';
     initial-value: 0%;
     inherits: true;
-  }
+}
 
 @keyframes borderRotate {
-	100% {
-		--angle: 420deg;
-	}
+    100% {
+        --angle: 420deg;
+    }
 }
 
 @keyframes borderRadial {
-	20% {
-		--gradX: 100%;
-		--gradY: 50%;
-	}
-	40% {
-		--gradX: 100%;
-		--gradY: 100%;
-	}
-	60% {
-		--gradX: 50%;
-		--gradY: 100%;
-	}
-	80% {
-		--gradX: 0%;
-		--gradY: 50%;
-	}
-	100% {
-		--gradX: 50%;
-		--gradY: 0%;
-	}
+    20% {
+        --gradX: 100%;
+        --gradY: 50%;
+    }
+
+    40% {
+        --gradX: 100%;
+        --gradY: 100%;
+    }
+
+    60% {
+        --gradX: 50%;
+        --gradY: 100%;
+    }
+
+    80% {
+        --gradX: 0%;
+        --gradY: 50%;
+    }
+
+    100% {
+        --gradX: 50%;
+        --gradY: 0%;
+    }
 }
 
 .project__icon {
@@ -132,7 +136,7 @@
     padding: 0 1rem;
     opacity: 0;
     visibility: hidden;
-    transition: .3s; 
+    transition: .3s;
     overflow-y: scroll;
 }
 
@@ -140,7 +144,7 @@
     width: 1000px;
 }
 
-.slide_details{
+.slide_details {
     padding-top: var(--mb-1-5);
     color: var(--container-color);
 }
@@ -176,10 +180,10 @@
     .project__container {
         grid-template-columns: repeat(3, 218px);
     }
-  }
-  
-  /* For medium devices */
-  @media screen and (max-width: 768px) {
+}
+
+/* For medium devices */
+@media screen and (max-width: 768px) {
     .project__container {
         grid-template-columns: repeat(2, 1fr);
     }
@@ -196,9 +200,9 @@
     .project__icon {
         font-size: 1.5rem;
     }
-  }
-  
-  @media screen and (max-width: 576px) {
+}
+
+@media screen and (max-width: 576px) {
     .project__modal-content {
         padding: 4.5rem 1.5rem 2.5rem;
     }
@@ -206,10 +210,10 @@
     .project__modal-description {
         padding: 0;
     }
-  }
-  
-  /* For small devices */
-  @media screen and (max-width: 350px) {
+}
+
+/* For small devices */
+@media screen and (max-width: 350px) {
     .project__container {
         grid-template-columns: max-content;
     }
@@ -217,4 +221,4 @@
     .project__content {
         padding-right: 6rem;
     }
-  }
+}

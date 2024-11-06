@@ -52,11 +52,11 @@
 
   /*========== Border moving animation ==========*/
   --d: 2500ms;
-	--angle: 90deg;
-	--gradX: 100%;
-	--gradY: 50%;
-	--c1: rgba(251, 164, 76, 0.812);
-	--c2: rgba(57, 53, 53, 0.1);
+  --angle: 90deg;
+  --gradX: 100%;
+  --gradY: 50%;
+  --c1: rgba(251, 164, 76, 0.812);
+  --c2: rgba(57, 53, 53, 0.1);
 }
 
 /* Responsive typography */
@@ -220,7 +220,7 @@ img {
     display: block;
     margin: 40% auto 0 auto;
   }
-  
+
   .loading-screen-text {
     display: block;
     margin-top: 5%;
@@ -228,7 +228,7 @@ img {
     font-size: var(--h1-font-size);
     font-weight: var(--font-normal);
   }
-  
+
   .loading-screen-text2 {
     display: block;
     margin-top: 5%;
@@ -253,8 +253,7 @@ img {
   }
 }
 
-@media screen and (max-width: 576px) {
-}
+@media screen and (max-width: 576px) {}
 
 /* For small devices */
 @media screen and (max-width: 350px) {

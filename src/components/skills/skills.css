@@ -1,5 +1,5 @@
 .skills__container {
-    grid-template-columns: repeat(2,350px);
+    grid-template-columns: repeat(2, 350px);
     column-gap: 3rem;
     justify-content: center;
 }
@@ -18,7 +18,7 @@
     margin-bottom: var(--mb-1-5);
 }
 
-.skills{
+.skills {
     position: relative;
     background: url(../../assets/background_5.jpg);
     background-repeat: no-repeat;
@@ -49,7 +49,7 @@
     color: var(--title-color);
 }
 
-.skills .svg-icon{
+.skills .svg-icon {
     font-size: 1rem;
     color: var(--title-color);
 }
@@ -90,23 +90,23 @@
         row-gap: 2rem;
     }
 
-    .skills{
+    .skills {
         position: relative;
         background: url(../../assets/background_3.jpg);
         background-position: -100% 55%;
         background-repeat: no-repeat;
         mix-blend-mode: multiply;
     }
-    
-  }
-  
-  /* For medium devices */
-  @media screen and (max-width: 576px) {
+
+}
+
+/* For medium devices */
+@media screen and (max-width: 576px) {
     .skills__container {
         grid-template-columns: 1fr;
     }
 
-    .skills{
+    .skills {
         position: relative;
         background: url(../../assets/background_3.jpg);
         background-repeat: no-repeat;
@@ -122,21 +122,21 @@
         opacity: 0;
         transition: all 2s ease;
     }
-    
+
     .reveal:nth-last-child(2) {
         transform: translateY(50%);
         opacity: 0;
         transition: all 2s ease;
     }
-    
+
     .reveal.active {
         transform: translateX(0);
         opacity: 1;
     }
-  }
-  
-  /* For small devices */
-  @media screen and (max-width: 350px) {
+}
+
+/* For small devices */
+@media screen and (max-width: 350px) {
     .skils__box {
         column-gap: 1.25rem;
     }
@@ -145,4 +145,4 @@
         font-size: var(--small-font-size);
     }
 
-  }
+}
