@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Website-MondSE/static/css/main.f4c087dd.css",
-    "main.js": "/Website-MondSE/static/js/main.5d70f806.js",
-    "static/media/almond.png": "/Website-MondSE/static/media/almond.5c57c324e150e89e2eee.png",
-    "static/media/1.png": "/Website-MondSE/static/media/1.a23b2dc8d339318e4c8e.png",
-    "static/media/background_5.jpg": "/Website-MondSE/static/media/background_5.6ade2470f76bda8d6098.jpg",
-    "static/media/7.png": "/Website-MondSE/static/media/7.001ab447b8c135158647.png",
-    "static/media/4.png": "/Website-MondSE/static/media/4.878444ca37f363d50452.png",
-    "static/media/9.png": "/Website-MondSE/static/media/9.85b5b5dae04278beea77.png",
-    "static/media/5.png": "/Website-MondSE/static/media/5.90ddde2aef6a38dcb9bc.png",
-    "static/media/almond3.jpg": "/Website-MondSE/static/media/almond3.3ee99fb072669c76f6aa.jpg",
-    "static/media/8.png": "/Website-MondSE/static/media/8.4cfecc045217886e046e.png",
-    "static/media/background_1.jpg": "/Website-MondSE/static/media/background_1.fd3ff0f73f47bc7c3399.jpg",
-    "static/media/6.png": "/Website-MondSE/static/media/6.b07d4becae0b794b30d2.png",
-    "static/media/2.png": "/Website-MondSE/static/media/2.8e32dc924fce18a131b2.png",
-    "static/media/3.png": "/Website-MondSE/static/media/3.c4c6c7ed67234c1efd2a.png",
-    "static/media/Almond-CV.pdf": "/Website-MondSE/static/media/Almond-CV.26de26c8cef138339643.pdf",
-    "static/media/background_3.jpg": "/Website-MondSE/static/media/background_3.296dd98223de43858c41.jpg",
-    "index.html": "/Website-MondSE/index.html",
-    "main.f4c087dd.css.map": "/Website-MondSE/static/css/main.f4c087dd.css.map",
-    "main.5d70f806.js.map": "/Website-MondSE/static/js/main.5d70f806.js.map"
+    "main.css": "/static/css/main.86294fe0.css",
+    "main.js": "/static/js/main.fb7caa38.js",
+    "static/media/almond.png": "/static/media/almond.5c57c324e150e89e2eee.png",
+    "static/media/1.png": "/static/media/1.a23b2dc8d339318e4c8e.png",
+    "static/media/background_5.jpg": "/static/media/background_5.6ade2470f76bda8d6098.jpg",
+    "static/media/7.png": "/static/media/7.001ab447b8c135158647.png",
+    "static/media/4.png": "/static/media/4.878444ca37f363d50452.png",
+    "static/media/9.png": "/static/media/9.85b5b5dae04278beea77.png",
+    "static/media/5.png": "/static/media/5.90ddde2aef6a38dcb9bc.png",
+    "static/media/almond3.jpg": "/static/media/almond3.3ee99fb072669c76f6aa.jpg",
+    "static/media/8.png": "/static/media/8.4cfecc045217886e046e.png",
+    "static/media/background_1.jpg": "/static/media/background_1.fd3ff0f73f47bc7c3399.jpg",
+    "static/media/6.png": "/static/media/6.b07d4becae0b794b30d2.png",
+    "static/media/2.png": "/static/media/2.8e32dc924fce18a131b2.png",
+    "static/media/3.png": "/static/media/3.c4c6c7ed67234c1efd2a.png",
+    "static/media/Almond-CV.pdf": "/static/media/Almond-CV.26de26c8cef138339643.pdf",
+    "static/media/background_3.jpg": "/static/media/background_3.296dd98223de43858c41.jpg",
+    "index.html": "/index.html",
+    "main.86294fe0.css.map": "/static/css/main.86294fe0.css.map",
+    "main.fb7caa38.js.map": "/static/js/main.fb7caa38.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4c087dd.css",
-    "static/js/main.5d70f806.js"
+    "static/css/main.86294fe0.css",
+    "static/js/main.fb7caa38.js"
   ]
 }
