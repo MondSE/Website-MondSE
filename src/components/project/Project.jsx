@@ -43,7 +43,7 @@ const Project = () => {
         <div className="project__content box">
           <div className="project__data">
             <img src={ProjectImg_LCMA} alt="" className="project__image" />
-            <h3 className="project__title">Listing Content Managenment App</h3>
+            <h3 className="project__title">Listing Content Management</h3>
             <p className="project__details">
               This personal project is used as a template for the demonstration
               of the Listing Content Management App of making blog, reviews,
