@@ -53,7 +53,7 @@ const Project = () => {
           </div>
           <a
             className="project__button"
-            href="https://github.com/MondSE/Product_Inventory_System"
+            href="https://github.com/MondSE/Laravel-Vue3-Listing-App"
             target="_blank"
             rel="noopener noreferrer"
           >
